@@ -3,7 +3,7 @@
 # Pranav Sonawadiya
 
 ### Robotics & AIML Developer | R&D in Intelligent Systems
-*Building the future, one algorithm at a time*
+*Engineering intelligence across multiple domains*
 
 </div>
 
