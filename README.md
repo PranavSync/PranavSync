@@ -50,6 +50,6 @@ I'm passionate about robotics and artificial intelligence, focused on R&D for in
 
 <div align="center">
 
-> "Whatever you imagine can be programmed."
+"Whatever you imagine can be programmed."
 
 </div>
